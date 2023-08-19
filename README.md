@@ -1,5 +1,5 @@
-<h1 align="center"> Leetcode-solution </h1>
+<h1 align="center"> Leetcode solutions </h1>
 <br><br>
-All the hackerrank problems are solved in C++ programming language.
+All the Leetcode problems are solved in C++ programming language.
 
 ``` coding for life```
